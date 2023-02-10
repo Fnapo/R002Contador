@@ -1,0 +1,11 @@
+.boton-click {
+    width: 25%;
+    background-color: green;
+    color: white;
+}
+
+.boton-reinicio {
+    width: 25%;
+    background-color: maroon;
+    color: white;
+}
